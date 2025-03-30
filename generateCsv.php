@@ -25,5 +25,3 @@ $users = [
 $nomeArquivo = "user.csv";
 
 gerarArquivosCsv($nomeArquivo,$users);
-
-?>
