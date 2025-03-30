@@ -1,6 +1,16 @@
-Função em PHP para gerar arquivos em CSV.
+Função em PHP para gerar arquivos em CSV (generateCsv.php).
 
-Feito como aprendizado inicial.
+Função em PHP para ler os arquivos gerados em CSV (lerArquivoCsv.php).
+
+Feito para aprendizado da linguagem php | Tentativa e erro e aprendendo!
+
+Fontes:
+https://www.w3schools.com/php/default.asp
+https://quickref.me/php
+https://www.php.net/manual/en/index.php
+
+Dúvidas tiradas com a IA - https://chat.deepseek.com/
+
 
 Obs: Como exportar o arquivo para visualizar no Excel
 
