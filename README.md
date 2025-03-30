@@ -12,7 +12,7 @@ https://www.php.net/manual/en/index.php
 Dúvidas tiradas com a IA - https://chat.deepseek.com/
 
 
-Obs: Como exportar o arquivo para visualizar no Excel
+Obs: Como exportar o arquivo para visualizar no Excel e remover o demilitador, montando uma tabela.
 
 Dados>Obter Dados Externos>De Texto
 .Deixe a opção delimitada marcada >>
