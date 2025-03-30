@@ -17,7 +17,7 @@ function lerArquivoCsv($nomeArquivo){
     return $users;
 }
 
-$nomeArquivo = "user.csv";
+$nomeArquivo = "user.csv"; // CAMINHO QUE O ARQUIVO ESTÁ PARA LEITURA, POR PADRÃO ESTÁ DENTRO DA PASTA DO PHP
 
 $dadosLidos = lerArquivoCsv($nomeArquivo);
 
